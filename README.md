@@ -99,7 +99,7 @@ Checks multicollinearity among features.
 
 - **SVM**: validation cost stabilizes around 0.5, though training cost fluctuates due to small sample size.  
 
-![LogReg Learning Curve](Visuals/learning_curve_logreg.png)  
+![LogReg Learning Curve](Visuals/learning_curve_log_reg.png)  
 ![SVM Learning Curve](Visuals/learning_curve_svm.png)  
 
 ---
@@ -111,8 +111,8 @@ Checks multicollinearity among features.
   - `Use_Budgeting_Tools_No`  
 - SVM (linear) highlighted similar drivers but spread weight slightly more broadly.  
 
-![LogReg Features](Visuals/feature_importance_logreg.png)  
-![SVM Features](Visuals/feature_importance_svm.png)  
+![LogReg Features](Visuals/log_reg_feature_analysis.png)  
+![SVM Features](Visuals/svm_feature_analysis.png)  
 
 ---
 
@@ -121,7 +121,7 @@ Checks multicollinearity among features.
 - Logistic Regression AUC = **0.86**  
 - SVM AUC = **0.82**  
 
-![ROC Curves](Visuals/roc_curve.png)
+![ROC Curves](Visuals/roc_curves.png)
 
 ---
 
@@ -130,7 +130,7 @@ Checks multicollinearity among features.
 - Logistic Regression misclassified **3 cases**.  
 - SVM misclassified **5 cases**, with 3 overlapping errors.  
 
-![Misclassifications](Visuals/misclassifications.png)
+![Misclassifications](Visuals/misclassifications_venn_diagram.png)
 
 ---
 
