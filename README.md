@@ -33,7 +33,7 @@ The dataset was collected via a custom Google Forms survey. It contains demograp
   - `Interest_Budget_Automation` (Yes/No/Maybe → one-hot encoded target variable)  
 
 ### Dataset Size
-- ~120 responses  
+- 192 responses  
 - Balanced class distributions across train/validation/test sets.
 
 ---
@@ -162,7 +162,7 @@ Checks multicollinearity among features.
 - Validation (82%) and test performance (92% LogReg, 87% SVM) are consistent, showing no large gap.  
 - Learning curves converge, suggesting the models are not memorizing noise.  
 - L1 regularization actively reduced overfitting by eliminating weak features.  
-- ⚠️ However, the dataset is small (~120 samples). Results may vary with different splits.  
+- ⚠️ However, the dataset is small (~190 samples). Results may vary with different splits.  
 - Future work: apply **cross-validation on the full dataset** and collect more responses for stronger confidence.  
 
 ---
