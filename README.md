@@ -130,7 +130,7 @@ Checks multicollinearity among features.
 - Logistic Regression misclassified **3 cases**.  
 - SVM misclassified **5 cases**, with 3 overlapping errors.  
 
-![Misclassifications](Visuals/misclassifications_venn_diagram.png)
+![Misclassifications](Visuals/misclassification_venn_diagram.png)
 
 ---
 
