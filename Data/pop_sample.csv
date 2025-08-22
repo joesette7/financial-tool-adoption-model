@@ -1,0 +1,192 @@
+Age,Education,Employment,Set_Financial_Goals,Online_Banking_Usage,Physical_Bank_Visits,Comfort_with_Tech,App_Usage_Weekly,Use_Budgeting_Tools,Satisfaction_Financial_Management,Interest_Personalized_Insights_Recommendations,Interest_Budget_Automation,Data_Security_Concerns,AI_Concerns,Interest_AI_Financial_Management
+25-34,College,Employed,Yes,Yes,Never or rarely,5,Daily (7+ times per week),Yes,4,Yes,Yes,Yes,Yes,Yes
+65+,Some college,Retired,Yes,Yes,Not Often,3,A few times a week (3-6 times per week),Yes,5,No,Yes,No,No,Yes
+65+,College,Retired,Yes,No,Not Often,2,Never,No,5,No,No,Yes,Yes,No
+25-34,College,Self-employed,No,Yes,Not Often,5,A few times a week (3-6 times per week),No,3,Maybe,Maybe,Yes,Yes,Maybe
+25-34,High school,Employed,Yes,Yes,Never or rarely,5,Less than once a week,No,3,Maybe,Yes,No,No,Maybe
+50-64,College,Employed,Yes,Yes,Not Often,5,Daily (7+ times per week),Yes,4,Maybe,Yes,Maybe,Maybe,Yes
+25-34,High school,Employed,No,No,Frequently,3,Once or twice a week,No,3,Maybe,Yes,Yes,Yes,Maybe
+65+,College,Employed,Yes,Yes,Not Often,5,A few times a week (3-6 times per week),No,4,Maybe,Maybe,Maybe,No,Maybe
+18-24,Some college,Student,No,Yes,Never or rarely,5,Less than once a week,No,3,Maybe,Maybe,Yes,Maybe,Yes
+25-34,College,Employed,Yes,Yes,Not Often,5,Daily (7+ times per week),Yes,4,No,No,Yes,No,Yes
+25-34,Other/Prefer not to say,Employed,No,Yes,Not Often,5,Less than once a week,No,3,No,No,Yes,No,Yes
+18-24,High school,Employed,Yes,Yes,Never or rarely,5,Daily (7+ times per week),Yes,5,Yes,Yes,Yes,Maybe,Maybe
+50-64,GED,Self-employed,Yes,Yes,Often,3,Daily (7+ times per week),No,2,Yes,Yes,Yes,Yes,Maybe
+25-34,College,Employed,Yes,Yes,Not Often,5,A few times a week (3-6 times per week),Yes,4,Yes,Yes,Maybe,No,Yes
+25-34,College,Unemployed,Yes,Yes,Often,5,Daily (7+ times per week),Yes,3,Maybe,Maybe,Yes,Yes,Maybe
+25-34,Some college,Self-employed,Yes,Yes,Not Often,5,Daily (7+ times per week),Yes,3,Yes,Yes,Maybe,Maybe,Maybe
+18-24,College,Employed,Yes,Yes,Not Often,5,A few times a week (3-6 times per week),No,3,Yes,Yes,Yes,Yes,Maybe
+18-24,College,Employed,No,Yes,Not Often,3,A few times a week (3-6 times per week),No,2,Yes,Yes,Yes,Yes,No
+65+,College,Retired,Yes,Yes,Not Often,4,Less than once a week,No,5,Maybe,Maybe,Maybe,Yes,No
+25-34,Some college,Employed,Yes,Yes,Not Often,3,Daily (7+ times per week),Yes,4,Yes,Yes,No,Yes,Maybe
+50-64,Some college,Employed,Yes,Yes,Not Often,4,Less than once a week,No,3,Maybe,Maybe,Yes,Yes,Maybe
+25-34,College,Self-employed,No,Yes,Never or rarely,5,A few times a week (3-6 times per week),No,2,Yes,Yes,Maybe,Maybe,Maybe
+65+,Some college,Retired,No,Yes,Often,3,A few times a week (3-6 times per week),Yes,3,Yes,Yes,No,Maybe,Yes
+18-24,High school,Student,Yes,Yes,Frequently,4,Never,No,1,Yes,Yes,Yes,No,Yes
+18-24,College,Employed,Yes,Yes,Never or rarely,4,Daily (7+ times per week),Yes,1,Yes,Yes,No,Yes,Yes
+25-34,College,Employed,No,Yes,Not Often,5,A few times a week (3-6 times per week),No,3,Maybe,Yes,Yes,Maybe,Maybe
+50-64,Some college,Other/Prefer not to say,Yes,Yes,Often,3,Once or twice a week,Yes,5,No,Maybe,Yes,Yes,No
+65+,High school,Retired,Yes,Yes,Not Often,2,Once or twice a week,Yes,4,Maybe,Maybe,Yes,Yes,Maybe
+25-34,College,Employed,No,Yes,Not Often,4,Never,No,1,Yes,Yes,No,No,Yes
+50-64,Other/Prefer not to say,Employed,No,Yes,Not Often,4,Once or twice a week,No,2,Yes,Maybe,Yes,Maybe,Maybe
+25-34,Some college,Employed,No,Yes,Never or rarely,3,Never,No,2,Maybe,Maybe,Maybe,Maybe,Maybe
+18-24,Some college,Employed,Yes,Yes,Never or rarely,4,Daily (7+ times per week),Yes,2,Yes,Yes,Yes,Yes,Maybe
+25-34,College,Employed,Yes,Yes,Not Often,5,Daily (7+ times per week),Yes,4,Yes,Maybe,No,No,Maybe
+25-34,College,Employed,No,Yes,Often,3,Never,No,3,No,No,Yes,Yes,No
+18-24,High school,Student,No,Yes,Not Often,4,Never,No,2,Maybe,Yes,Yes,Yes,Maybe
+18-24,College,Employed,Yes,Yes,Frequently,5,A few times a week (3-6 times per week),Yes,5,Maybe,Maybe,Yes,Yes,Maybe
+25-34,College,Employed,No,Yes,Never or rarely,4,Never,Yes,2,Yes,Yes,Yes,Yes,Maybe
+50-64,Other/Prefer not to say,Employed,Yes,Yes,Not Often,3,A few times a week (3-6 times per week),No,4,Yes,Yes,Yes,Yes,Maybe
+25-34,Some college,Employed,Prefer not to say,Yes,Not Often,5,A few times a week (3-6 times per week),No,1,Yes,Yes,Yes,Yes,No
+50-64,Other/Prefer not to say,Self-employed,Yes,Yes,Never or rarely,4,A few times a week (3-6 times per week),No,2,Maybe,Maybe,Maybe,Maybe,Maybe
+18-24,College,Employed,Yes,No,Not Often,4,A few times a week (3-6 times per week),No,1,Yes,Yes,Yes,Maybe,Yes
+25-34,Some college,Employed,Yes,Yes,Not Often,3,Daily (7+ times per week),No,2,Yes,Yes,Yes,Yes,Yes
+65+,College,Employed,Yes,Yes,Not Often,5,Daily (7+ times per week),Yes,5,Yes,Yes,Yes,Yes,Yes
+18-24,College,Unemployed,No,Yes,Often,3,Less than once a week,No,2,Yes,Yes,Yes,Yes,Yes
+18-24,College,Employed,No,Yes,Frequently,3,Once or twice a week,No,2,Yes,Yes,Yes,Yes,Maybe
+18-24,Some college,Employed,Yes,Yes,Frequently,5,A few times a week (3-6 times per week),No,2,Yes,Yes,Yes,Yes,Yes
+18-24,College,Employed,Yes,Yes,Not Often,5,Daily (7+ times per week),Yes,5,Yes,Yes,Yes,Yes,No
+18-24,College,Student,No,Yes,Not Often,4,Daily (7+ times per week),No,3,No,Maybe,Yes,Yes,No
+18-24,Some college,Employed,No,Yes,Never or rarely,4,Once or twice a week,No,1,No,No,Yes,Yes,No
+18-24,High school,Employed,Yes,Yes,Not Often,5,A few times a week (3-6 times per week),No,4,Maybe,Maybe,Maybe,Maybe,Yes
+25-34,Some college,Student,No,Yes,Never or rarely,3,Once or twice a week,No,4,Yes,Yes,Yes,Yes,Maybe
+35-49,Some college,Self-employed,Yes,Yes,Never or rarely,4,Daily (7+ times per week),Yes,5,Maybe,Yes,No,Yes,Maybe
+35-49,Some college,Employed,No,Yes,Never or rarely,3,Less than once a week,Yes,5,No,Yes,No,Maybe,Maybe
+25-34,College,Employed,Yes,Yes,Often,5,Never,No,4,No,Yes,Yes,Yes,Maybe
+50-64,College,Employed,Yes,Yes,Not Often,5,A few times a week (3-6 times per week),No,3,Yes,Yes,Maybe,Maybe,Maybe
+50-64,Some college,Employed,No,Yes,Not Often,4,A few times a week (3-6 times per week),No,2,Maybe,Maybe,Yes,Yes,Maybe
+35-49,Some college,Employed,No,Yes,Never or rarely,4,A few times a week (3-6 times per week),No,4,Maybe,Yes,Yes,Yes,Maybe
+35-49,Some college,Employed,Yes,Yes,Never or rarely,5,A few times a week (3-6 times per week),Yes,4,Yes,Yes,Yes,Yes,Yes
+65+,High school,Employed,Yes,No,Not Often,3,Never,No,2,No,No,Yes,Maybe,No
+50-64,High school,Employed,Yes,Yes,Often,3,A few times a week (3-6 times per week),Yes,4,Maybe,Yes,Yes,Yes,Maybe
+18-24,Some college,Student,No,No,Not Often,5,Never,No,3,No,No,Yes,Yes,No
+35-49,High school,Self-employed,No,Yes,Not Often,4,Daily (7+ times per week),No,3,Maybe,Yes,No,Maybe,Maybe
+18-24,Some college,Employed,No,Yes,Often,4,A few times a week (3-6 times per week),Yes,2,Yes,Yes,Yes,Yes,No
+50-64,GED,Employed,Yes,Yes,Not Often,1,Once or twice a week,Yes,3,Maybe,Maybe,Yes,Yes,Maybe
+50-64,Some college,Retired,Yes,Yes,Never or rarely,4,A few times a week (3-6 times per week),No,3,Yes,Yes,Maybe,No,Yes
+35-49,Some college,Self-employed,Yes,Yes,Not Often,3,A few times a week (3-6 times per week),No,4,Maybe,Maybe,Yes,Yes,Maybe
+18-24,Some college,Employed,Yes,Yes,Not Often,5,A few times a week (3-6 times per week),Yes,4,Maybe,Maybe,Yes,Yes,Maybe
+18-24,High school,Student,Yes,Yes,Not Often,2,Never,No,1,Maybe,Maybe,Maybe,Maybe,Maybe
+50-64,GED,Employed,Prefer not to say,Yes,Often,4,A few times a week (3-6 times per week),No,4,No,No,No,No,No
+18-24,Some college,Student,Yes,Yes,Frequently,5,Once or twice a week,Yes,4,Yes,Yes,Yes,Yes,Yes
+50-64,Some college,Employed,Prefer not to say,Yes,Often,3,Less than once a week,Yes,4,Maybe,Yes,Yes,Yes,Maybe
+25-34,GED,Employed,No,Yes,Not Often,2,Daily (7+ times per week),No,1,Maybe,Yes,No,Maybe,Maybe
+50-64,High school,Retired,No,No,Often,2,Less than once a week,No,5,No,No,Yes,Yes,No
+35-49,College,Self-employed,No,Yes,Not Often,5,A few times a week (3-6 times per week),No,3,Maybe,No,Yes,Yes,Yes
+25-34,College,Employed,No,Yes,Not Often,5,Never,No,1,Yes,Yes,Yes,Yes,Yes
+50-64,GED,Employed,Yes,Yes,Not Often,4,A few times a week (3-6 times per week),Yes,4,Yes,Yes,Yes,Yes,Maybe
+25-34,Some college,Employed,No,Yes,Not Often,5,Once or twice a week,No,2,Maybe,No,No,Maybe,No
+50-64,College,Employed,Yes,Yes,Not Often,5,Once or twice a week,No,5,No,No,Yes,Yes,No
+25-34,Other/Prefer not to say,Unemployed,Yes,Yes,Never or rarely,3,Daily (7+ times per week),No,3,Maybe,Maybe,Yes,Yes,No
+50-64,Some college,Self-employed,Yes,Yes,Often,5,A few times a week (3-6 times per week),Yes,5,No,Yes,Maybe,Yes,No
+25-34,Some college,Employed,No,Yes,Not Often,3,Once or twice a week,No,2,Maybe,Yes,Yes,Yes,Maybe
+50-64,College,Employed,Yes,Yes,Often,4,Once or twice a week,Yes,3,Maybe,Yes,Maybe,Maybe,Maybe
+65+,College,Employed,Yes,Yes,Often,4,Once or twice a week,No,3,No,No,Yes,Maybe,No
+50-64,College,Employed,Prefer not to say,No,Frequently,2,Never,No,2,No,No,Yes,Yes,No
+35-49,College,Employed,Yes,Yes,Not Often,5,A few times a week (3-6 times per week),Yes,5,Yes,Yes,Yes,Yes,Maybe
+65+,High school,Retired,Yes,Yes,Frequently,4,Less than once a week,Yes,5,Yes,Yes,Maybe,Yes,Yes
+18-24,Some college,Employed,Yes,Yes,Not Often,4,Daily (7+ times per week),No,3,Maybe,Yes,Yes,Maybe,Maybe
+25-34,College,Employed,No,Yes,Never or rarely,5,Once or twice a week,No,2,Yes,Yes,Yes,Yes,Maybe
+25-34,Some college,Student,No,Yes,Never or rarely,5,A few times a week (3-6 times per week),No,1,Maybe,Maybe,Yes,No,Yes
+25-34,Some college,Student,No,Yes,Never or rarely,5,Never,No,3,No,No,Yes,Yes,No
+18-24,Some college,Employed,No,Yes,Not Often,3,Daily (7+ times per week),Yes,4,Yes,Yes,Yes,Yes,Yes
+18-24,High school,Unemployed,No,Yes,Not Often,4,Once or twice a week,No,3,Yes,Yes,Maybe,Maybe,Yes
+25-34,Some college,Employed,Yes,Yes,Not Often,3,Daily (7+ times per week),No,3,Maybe,Maybe,Maybe,Maybe,Maybe
+18-24,Some college,Employed,Yes,Yes,Often,5,A few times a week (3-6 times per week),Yes,5,No,Yes,Yes,Yes,Yes
+25-34,Some college,Student,Yes,Yes,Not Often,4,A few times a week (3-6 times per week),No,2,Yes,Yes,Yes,Yes,Yes
+18-24,Some college,Unemployed,No,Yes,Not Often,5,Daily (7+ times per week),Yes,2,Yes,Yes,Yes,Yes,Yes
+35-49,High school,Unemployed,Prefer not to say,No,Often,3,Less than once a week,No,3,Maybe,No,No,Maybe,No
+18-24,High school,Employed,Yes,Yes,Never or rarely,3,A few times a week (3-6 times per week),Yes,3,Maybe,No,Yes,Yes,No
+18-24,College,Employed,Yes,Yes,Not Often,3,Once or twice a week,No,2,Yes,Maybe,No,No,Maybe
+25-34,College,Self-employed,Yes,Yes,Not Often,4,A few times a week (3-6 times per week),Yes,3,Yes,Yes,No,Maybe,Yes
+25-34,High school,Employed,No,Yes,Often,5,Never,No,5,No,No,Yes,Yes,No
+25-34,College,Employed,No,Yes,Not Often,5,A few times a week (3-6 times per week),Yes,5,No,No,No,No,No
+25-34,Some college,Employed,No,Yes,Never or rarely,3,A few times a week (3-6 times per week),Yes,3,Maybe,Maybe,Yes,Yes,Maybe
+25-34,Some college,Employed,Yes,Yes,Not Often,4,Daily (7+ times per week),Yes,2,Maybe,Yes,Yes,Yes,Maybe
+35-49,Some college,Employed,Yes,Yes,Never or rarely,5,Daily (7+ times per week),Yes,4,Yes,Yes,Yes,Yes,Yes
+25-34,Some college,Employed,Yes,Yes,Not Often,5,Daily (7+ times per week),No,4,Yes,Yes,No,No,Yes
+25-34,Some college,Employed,No,Yes,Not Often,5,Daily (7+ times per week),No,2,Yes,Maybe,Yes,Yes,Maybe
+25-34,College,Employed,No,Yes,Never or rarely,5,A few times a week (3-6 times per week),No,5,No,No,Yes,Yes,No
+25-34,Some college,Employed,No,Yes,Never or rarely,5,A few times a week (3-6 times per week),No,1,Maybe,Maybe,Yes,No,Yes
+25-34,College,Employed,No,Yes,Not Often,3,A few times a week (3-6 times per week),Yes,3,Yes,Yes,Yes,Yes,Maybe
+25-34,Some college,Employed,Yes,Yes,Never or rarely,4,Once or twice a week,No,2,Yes,Yes,Maybe,Yes,Yes
+25-34,GED,Employed,Yes,Yes,Often,4,A few times a week (3-6 times per week),Yes,4,No,No,Yes,Yes,Maybe
+25-34,High school,Unemployed,Prefer not to say,Yes,Never or rarely,5,Never,No,1,No,No,Maybe,Maybe,No
+18-24,Some college,Employed,Yes,Yes,Not Often,4,Daily (7+ times per week),No,3,Maybe,Maybe,Maybe,No,Maybe
+50-64,Some college,Employed,Yes,Yes,Not Often,3,A few times a week (3-6 times per week),Yes,3,Maybe,Maybe,Yes,Yes,Maybe
+25-34,High school,Employed,Yes,Yes,Never or rarely,3,A few times a week (3-6 times per week),Yes,3,Yes,Yes,Yes,Yes,Maybe
+18-24,College,Unemployed,Yes,Yes,Not Often,4,A few times a week (3-6 times per week),Yes,3,Maybe,Maybe,Yes,Yes,Maybe
+25-34,College,Employed,Yes,Yes,Not Often,5,A few times a week (3-6 times per week),No,1,Yes,Yes,Yes,Maybe,Yes
+25-34,High school,Employed,Yes,Yes,Not Often,5,Never,No,1,Maybe,Maybe,No,No,Maybe
+25-34,High school,Employed,Yes,Yes,Not Often,4,A few times a week (3-6 times per week),No,4,Yes,Yes,Yes,Yes,Yes
+25-34,High school,Employed,No,Yes,Not Often,4,Once or twice a week,Yes,1,No,Yes,Maybe,Yes,Maybe
+25-34,Other/Prefer not to say,Unemployed,Yes,Yes,Never or rarely,2,A few times a week (3-6 times per week),No,3,Maybe,Maybe,Yes,Yes,No
+18-24,High school,Employed,Yes,Yes,Not Often,4,A few times a week (3-6 times per week),No,3,Yes,Yes,Yes,Yes,Maybe
+25-34,College,Employed,Yes,Yes,Never or rarely,5,Daily (7+ times per week),Yes,4,Yes,Yes,No,No,Yes
+18-24,College,Self-employed,Yes,Yes,Not Often,4,A few times a week (3-6 times per week),No,3,Yes,Yes,No,No,Yes
+25-34,College,Employed,Yes,Yes,Not Often,4,Daily (7+ times per week),Yes,4,Yes,Yes,Yes,Yes,Maybe
+25-34,College,Employed,Yes,Yes,Never or rarely,3,A few times a week (3-6 times per week),No,4,Maybe,No,Yes,Yes,No
+25-34,College,Self-employed,Yes,Yes,Frequently,5,Once or twice a week,No,2,Yes,Yes,No,Maybe,Yes
+50-64,High school,Employed,No,Yes,Not Often,2,Less than once a week,No,3,Maybe,Maybe,Yes,Yes,Maybe
+18-24,Some college,Employed,Yes,Yes,Not Often,5,Daily (7+ times per week),Yes,5,Yes,No,Maybe,Yes,No
+50-64,College,Employed,Yes,Yes,Not Often,4,A few times a week (3-6 times per week),Yes,4,Maybe,Maybe,Maybe,Maybe,Maybe
+65+,College,Retired,Yes,Yes,Often,2,Less than once a week,No,5,No,No,Yes,Yes,No
+35-49,High school,Employed,Yes,Yes,Not Often,3,Once or twice a week,No,4,No,No,Yes,Yes,No
+50-64,Some college,Self-employed,Yes,Yes,Often,3,Less than once a week,No,4,No,No,Yes,Yes,No
+35-49,Some college,Employed,No,Yes,Not often,4,Daily (7+ times per week),No,4,No,No,No,No,No
+18-24,College,Employed,Prefer not to say,Yes,Not often,4,A few times a week (3-6 times per week),No,3,Maybe,Yes,Yes,Yes,Maybe
+35-49,Some college,Employed,Yes,Yes,Not often,4,Daily (7+ times per week),No,3,Maybe,Maybe,Yes,Yes,No
+50-64,College,Employed,Yes,Yes,Never or rarely,3,Daily (7+ times per week),No,5,Maybe,Maybe,No,No,Maybe
+35-49,College,Employed,Yes,Yes,Never or rarely,4,Daily (7+ times per week),Yes,4,Yes,Yes,Maybe,No,Yes
+35-49,College,Employed,No,Yes,Not often,4,A few times a week (3-6 times per week),No,4,Yes,Yes,No,No,Yes
+50-64,College,Employed,Yes,Yes,Not often,3,Once or twice a week,No,3,Maybe,No,Yes,Yes,No
+35-49,College,Employed,Yes,Yes,Not often,3,Daily (7+ times per week),Yes,4,No,No,No,No,No
+35-49,GED,Employed,Yes,Yes,Never or rarely,4,Once or twice a week,No,3,Maybe,Yes,Yes,Yes,Maybe
+18-24,College,Employed,Yes,Yes,Not often,5,A few times a week (3-6 times per week),Yes,3,Yes,Yes,Yes,Yes,Maybe
+50-64,College,Employed,Yes,Yes,Never or rarely,3,Once or twice a week,Yes,3,Yes,Yes,Yes,Yes,Maybe
+35-49,High school,Employed,No,Yes,Not often,3,A few times a week (3-6 times per week),No,4,No,Yes,No,Maybe,Maybe
+50-64,College,Employed,Yes,Yes,Never or rarely,4,Once or twice a week,Yes,4,Maybe,Maybe,Yes,Yes,Yes
+25-34,Some college,Employed,No,Yes,Never or rarely,5,A few times a week (3-6 times per week),Yes,1,Yes,Yes,Yes,Yes,Yes
+25-34,College,Employed,Yes,Yes,Not often,4,Once or twice a week,No,3,Yes,Maybe,Yes,Yes,Maybe
+50-64,Other/Prefer not to say,Employed,Yes,Yes,Not often,5,Daily (7+ times per week),No,5,No,No,Yes,Yes,Yes
+25-34,College,Employed,Yes,Yes,Not often,5,Daily (7+ times per week),Yes,4,Maybe,Maybe,Yes,Maybe,Yes
+35-49,Some college,Employed,Yes,Yes,Never or rarely,5,A few times a week (3-6 times per week),Yes,5,Maybe,Yes,Maybe,Maybe,Maybe
+35-49,Some college,Employed,Yes,Yes,Not often,5,A few times a week (3-6 times per week),Yes,4,Maybe,Maybe,Yes,Yes,Maybe
+25-34,College,Employed,Yes,Yes,Not often,5,A few times a week (3-6 times per week),Yes,4,Yes,Yes,Yes,No,Yes
+50-64,College,Employed,Yes,Yes,Never or rarely,5,Once or twice a week,Yes,5,No,No,No,No,Maybe
+35-49,College,Employed,Yes,Yes,Not often,5,Daily (7+ times per week),No,4,Yes,Yes,No,Maybe,Maybe
+50-64,Some college,Employed,Yes,Yes,Not often,4,Daily (7+ times per week),No,2,Yes,Maybe,Yes,Yes,Maybe
+35-49,College,Employed,Yes,Yes,Never or rarely,4,Daily (7+ times per week),No,2,Yes,Yes,Yes,Maybe,Yes
+50-64,College,Employed,Yes,Yes,Never or rarely,5,Daily (7+ times per week),Yes,5,Yes,Yes,No,No,Yes
+35-49,College,Employed,Yes,Yes,Never or rarely,4,A few times a week (3-6 times per week),No,4,Maybe,Maybe,No,Maybe,Maybe
+35-49,College,Employed,Yes,Yes,Never or rarely,3,A few times a week (3-6 times per week),Yes,4,Maybe,Maybe,Yes,Yes,Maybe
+25-34,College,Employed,Yes,Yes,Often,5,Daily (7+ times per week),Yes,5,Maybe,Maybe,No,No,Maybe
+35-49,College,Employed,Yes,Yes,Not often,1,Daily (7+ times per week),No,3,Yes,Yes,No,Maybe,Yes
+25-34,College,Employed,Yes,Yes,Never or rarely,5,A few times a week (3-6 times per week),No,3,Maybe,Yes,Maybe,No,Maybe
+25-34,College,Employed,No,Yes,Never or rarely,3,Daily (7+ times per week),No,3,Yes,Yes,No,Maybe,Maybe
+25-34,High school,Employed,Yes,Yes,Not often,5,Daily (7+ times per week),No,3,Yes,Yes,No,No,Yes
+18-24,High school,Employed,Yes,Yes,Never or rarely,3,Daily (7+ times per week),Yes,3,Maybe,Maybe,No,No,Maybe
+35-49,College,Employed,Yes,Yes,Not often,5,A few times a week (3-6 times per week),No,5,No,Maybe,Yes,Yes,No
+35-49,College,Employed,No,Yes,Not often,5,A few times a week (3-6 times per week),No,3,Yes,Yes,Yes,Yes,Yes
+35-49,College,Employed,No,Yes,Never or rarely,5,A few times a week (3-6 times per week),No,3,Maybe,Maybe,No,Yes,Maybe
+35-49,College,Employed,No,Yes,Never or rarely,5,A few times a week (3-6 times per week),Yes,3,Yes,Yes,Yes,Maybe,Yes
+25-34,Some college,Employed,Yes,Yes,Not often,5,Once or twice a week,Yes,3,Yes,Yes,Yes,Yes,Maybe
+50-64,College,Employed,Yes,Yes,Never or rarely,5,A few times a week (3-6 times per week),No,2,Yes,Yes,No,Maybe,Yes
+35-49,College,Employed,Yes,Yes,Not often,4,Once or twice a week,No,3,Yes,Maybe,Yes,Yes,Maybe
+50-64,College,Employed,No,Yes,Never or rarely,3,Less than once a week,No,3,Maybe,Maybe,Yes,Yes,Maybe
+50-64,Some college,Employed,Yes,Yes,Never or rarely,4,Daily (7+ times per week),No,3,Yes,Yes,Maybe,Maybe,Maybe
+35-49,Some college,Employed,Yes,Yes,Never or rarely,4,A few times a week (3-6 times per week),No,5,Yes,Yes,No,No,Yes
+35-49,College,Employed,Yes,Yes,Never or rarely,4,A few times a week (3-6 times per week),No,3,Maybe,Maybe,Yes,Yes,Maybe
+25-34,College,Employed,Yes,Yes,Never or rarely,5,A few times a week (3-6 times per week),Yes,3,Maybe,Yes,Yes,Yes,No
+35-49,College,Employed,Yes,Yes,Never or rarely,5,Daily (7+ times per week),No,3,No,Yes,Yes,Yes,Maybe
+35-49,Some college,Employed,No,Yes,Not often,4,A few times a week (3-6 times per week),No,3,Maybe,No,No,No,Maybe
+50-64,College,Employed,Yes,Yes,Not often,5,Once or twice a week,No,4,Maybe,No,Yes,Yes,Maybe
+25-34,High school,Employed,Yes,Yes,Not often,5,A few times a week (3-6 times per week),Yes,4,Maybe,Yes,Yes,Yes,Maybe
+35-49,Some college,Employed,Yes,Yes,Not often,5,A few times a week (3-6 times per week),No,3,Yes,Yes,Maybe,No,Yes
+50-64,Some college,Employed,Yes,Yes,Often,3,Daily (7+ times per week),No,4,Maybe,Maybe,Yes,Yes,Maybe
+50-64,Some college,Employed,No,Yes,Not often,4,A few times a week (3-6 times per week),No,4,Yes,Yes,Maybe,Maybe,Yes
+35-49,Some college,Employed,Yes,Yes,Never or rarely,5,Daily (7+ times per week),Yes,4,Yes,Yes,No,No,Yes
+25-34,College,Employed,Yes,Yes,Never or rarely,5,Daily (7+ times per week),Yes,5,Yes,Yes,Yes,Maybe,Maybe
+25-34,College,Employed,Yes,Yes,Never or rarely,5,A few times a week (3-6 times per week),Yes,5,Yes,Yes,No,No,Yes
+50-64,College,Employed,Yes,Yes,Not often,4,Daily (7+ times per week),Yes,4,Maybe,Maybe,Yes,Yes,Maybe
+35-49,Some college,Employed,No,Yes,Frequently,3,Never,No,3,Maybe,Maybe,Yes,Yes,No
